@@ -160,7 +160,9 @@ https://grok.com/imagine/post/1f56196e-9e00-4ea0-bf14-9cec1503e9c8?source=post-p
 
 **场景：夜色，篝火旁。**
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4b04112f-466e-4c47-a537-74ee378108a3" />
-  
+
+https://grok.com/imagine/post/a625dd7a-ff1c-4b6d-b7fa-6313d54b14b4?source=post-page&platform=web  
+   
 **安息：**
 明日就是考验，你们怕吗？
 
