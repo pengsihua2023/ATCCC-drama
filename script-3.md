@@ -1,6 +1,10 @@
 
 # 🎭《王造化与七子》（约30分钟演出稿）
 
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+
 ---
 
 ## 第一幕：王的旨意（约5分钟）
@@ -187,7 +191,9 @@ https://grok.com/imagine/post/1f56196e-9e00-4ea0-bf14-9cec1503e9c8?source=post-p
 
 **场景：大山谷。百姓环立，候完全主持大会。**
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4c8444ab-fb59-4b57-a642-17d8322c0e3b" />  
-
+  
+https://grok.com/imagine/post/fe385fe2-2797-4e59-9546-cc01511f553b?source=post-page&platform=web
+  
 **候完全：**
 今日，王造化要显明四十九年亲手造就的七子！
 
