@@ -49,6 +49,7 @@
 ## 第二幕：四十九年的熬炼（约10分钟）
 
 **场景：灯光交替，时光流转。七子在不同环境中被磨炼。**
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/852f73ff-06e5-459c-b10c-cf81e9e52623" />
 
 ---
 
