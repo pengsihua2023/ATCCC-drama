@@ -159,7 +159,8 @@ https://grok.com/imagine/post/1f56196e-9e00-4ea0-bf14-9cec1503e9c8?source=post-p
 ### 场四：试炼前夜
 
 **场景：夜色，篝火旁。**
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4b04112f-466e-4c47-a537-74ee378108a3" />
+  
 **安息：**
 明日就是考验，你们怕吗？
 
