@@ -247,7 +247,10 @@ https://grok.com/imagine/post/fe385fe2-2797-4e59-9546-cc01511f553b?source=post-p
 ---
 
 ## 第四幕：荣耀与敬畏（约10分钟）
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e17cde7e-3c76-4dbb-b763-8e6c23d64862" />  
+  
+https://grok.com/imagine/post/5aaba380-8401-4b86-82bf-c85daafc754e?source=post-page&platform=web
+  
 ### 场一：七子抉择
 
 **宝血：**
