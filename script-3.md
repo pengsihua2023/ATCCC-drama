@@ -339,7 +339,8 @@ https://grok.com/imagine/post/5aaba380-8401-4b86-82bf-c85daafc754e?source=post-p
 ### 场四：荣耀显现
 
 （光芒骤亮，真王与七子升起，衣袍如火焰闪耀。）
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c6791f34-7e7a-45a3-ba8b-87556a2d84f7" />
+  
 **合唱（高声）：**
 「荣耀属于王，忠心儿子与王同在！」
 
