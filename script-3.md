@@ -53,7 +53,9 @@ Attach files by dragging & dropping, selecting or pasting them.
 ## 第二幕：四十九年的熬炼（约10分钟）
 
 **场景：灯光交替，时光流转。七子在不同环境中被磨炼。**
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/852f73ff-06e5-459c-b10c-cf81e9e52623" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/01f50c47-8887-4967-b948-432ebdfe9424" />
+
+https://grok.com/imagine/post/254bb221-07e0-4325-9b4a-6c1a57f53aa5?source=post-page&platform=web
 
 ---
 
