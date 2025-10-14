@@ -165,8 +165,7 @@ https://grok.com/imagine/post/a625dd7a-ff1c-4b6d-b7fa-6313d54b14b4?source=post-p
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xuans_w3PhI" frameborder="0" allowfullscreen></iframe>   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xuans_w3PhI" frameborder="0" allowfullscreen></iframe>
-
+https://www.youtube.com/embed/xuans_w3PhI
 
 **安息：**
 明日就是考验，你们怕吗？
