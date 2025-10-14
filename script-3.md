@@ -83,7 +83,7 @@
 ### 场二：苦难村
 
 **场景：荒凉村庄，众人冷眼。**
-
+https://grok.com/imagine/post/1f56196e-9e00-4ea0-bf14-9cec1503e9c8?source=post-page&platform=web
 **村人甲：**
 这就是王的儿子？连水桶都挑不动！
 
