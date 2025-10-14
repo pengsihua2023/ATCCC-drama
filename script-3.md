@@ -87,7 +87,8 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/70051645-b5f9-40ee-9e1a-7ef0330f888c" />
   
 
-https://grok.com/imagine/post/1f56196e-9e00-4ea0-bf14-9cec1503e9c8?source=post-page&platform=web
+https://grok.com/imagine/post/1f56196e-9e00-4ea0-bf14-9cec1503e9c8?source=post-page&platform=web   
+  
 **村人甲：**
 这就是王的儿子？连水桶都挑不动！
 
