@@ -129,7 +129,8 @@ https://grok.com/imagine/post/1f56196e-9e00-4ea0-bf14-9cec1503e9c8?source=post-p
 ### 场三：旷野之路
 
 **场景：烈日下，七子合力抬木架。**
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e2fed85d-5c0b-4717-b056-77e86b97cf6c" />
+  
 **负架：**
 弟兄们……我走不动了！
 
