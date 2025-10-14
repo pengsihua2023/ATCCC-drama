@@ -58,7 +58,8 @@ Attach files by dragging & dropping, selecting or pasting them.
 ---
 
 ### 场一：王宫学堂
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8336dd85-43ac-4d6a-9353-a83d24b7498b" />
+ 
 **宝血：**
 父王的功课太重，我快窒息！
 
