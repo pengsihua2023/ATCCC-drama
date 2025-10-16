@@ -1,6 +1,6 @@
 # 王造化和七子
 ## 第一幕：王的旨意（约5分钟）
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/700a915b-1bee-4ad6-8e47-5945920de08f" />  
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/700a915b-1bee-4ad6-8e47-5945920de08f" />  
 
 #### 场景：王宫大殿，宝座辉煌，文武百官列队。 
 #### 旁白： 「日月因王而立，星辰因王而列，万有因王而存。然，王最爱的，是他的七个儿子。」  
