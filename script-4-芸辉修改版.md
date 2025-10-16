@@ -23,7 +23,8 @@
 *场景和旁白：（灯光交替）时光流转。七子在不同环境中被磨炼。    
 
 ### 场一：王宫学堂  
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/01f50c47-8887-4967-b948-432ebdfe9424" />  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/01f50c47-8887-4967-b948-432ebdfe9424" />    
+
 *旁白：在王宫学堂   
 -宝血： 父王的功课太重，我快窒息了！  
 -灵交： 兄长，若没有灵气，你的心会枯竭。  
