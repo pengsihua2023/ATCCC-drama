@@ -1,5 +1,7 @@
 # 王造化和七子
 ## 第一幕：王的旨意（约5分钟）
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/700a915b-1bee-4ad6-8e47-5945920de08f" />  
+
 *场景：王宫大殿，宝座辉煌，文武百官列队。  
 *旁白： 「日月因王而立，星辰因王而列，万有因王而存。然，王最爱的，是他的七个儿子。」  
 -王造化： 候完全！  
@@ -19,7 +21,9 @@
 
 ## 第二幕：四十九年的熬炼（约10分钟）
 *场景和旁白：（灯光交替）时光流转。七子在不同环境中被磨炼。    
+
 ### 场一：王宫学堂  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/01f50c47-8887-4967-b948-432ebdfe9424" />  
 *旁白：在王宫学堂   
 -宝血： 父王的功课太重，我快窒息了！  
 -灵交： 兄长，若没有灵气，你的心会枯竭。  
@@ -32,6 +36,8 @@
 
 ### 场二：苦难村
 *场景和旁白：荒凉村庄，众人冷眼。  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/70051645-b5f9-40ee-9e1a-7ef0330f888c" />  
+  
 -村人（甲乙丙）：  
 这就是王的儿子？连水桶都挑不动！  
 哈哈！所谓王子，不过是废物！  
@@ -46,6 +52,8 @@
 
 ### 场三：旷野之路
 *场景和旁白：旷野里，烈日下，七子合力抬木架。  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e2fed85d-5c0b-4717-b056-77e86b97cf6c" />  
+
 -负架： 弟兄们……我走不动了！  
 -宝血： 让我替你分担！  
 -负架： 不，这是父王给我的担子……  
@@ -56,6 +64,11 @@
 
 ### 场四：试炼前夜
 *场景和旁白：试炼前夜，篝火旁。  
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4b04112f-466e-4c47-a537-74ee378108a3" />
+
+https://grok.com/imagine/post/a625dd7a-ff1c-4b6d-b7fa-6313d54b14b4?source=post-page&platform=web  
+
 -安息： 明日就是考验，你们怕吗？  
 -祷靠： 若被迷惑，岂不是前功尽弃？  
 -坚信： 我虽软弱，但我信父王！  
@@ -68,6 +81,12 @@
 
 ## 第三幕：山谷大会（约3分钟）
 *场景和旁白：大山谷。文武百官，百姓环立，还有假王。候完全主持大会。  
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4c8444ab-fb59-4b57-a642-17d8322c0e3b" />  
+  
+https://grok.com/imagine/post/fe385fe2-2797-4e59-9546-cc01511f553b?source=post-page&platform=web
+  
+
 -候完全： 今日，王要试炼显明四十九年亲手造就的七子！  
 -百姓（甲乙丙）：看哪！满屋黄金，耀眼夺目！  
 那是天下学识的典籍！  
@@ -83,6 +102,12 @@
 旁白： 山谷寂静，只有心跳在回响。  
 
 ## 第四幕：荣耀与敬畏（约5分钟）
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e17cde7e-3c76-4dbb-b763-8e6c23d64862" />  
+  
+https://grok.com/imagine/post/5aaba380-8401-4b86-82bf-c85daafc754e?source=post-page&platform=web
+  
+
 场一：七个王子的抉择   
 -宝血： 父王的声音，在深谷！  
 -坚信： 若是错呢？我们将失去一切！  
@@ -107,6 +132,12 @@
 -灵交： 父啊，我们只愿与你同在！  
 
 ### 场四：荣耀显现
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c6791f34-7e7a-45a3-ba8b-87556a2d84f7" />
+
+https://grok.com/imagine/post/d3b705a6-8999-42ee-a010-80be565a625b?source=post-page&platform=web  
+     
+
 *场景和旁白：光芒骤亮，真王与七子升起，衣袍如火焰闪耀。  
 -合唱（高声）： 「荣耀属于王，忠心儿子与王同在！」  
 -王造化： 看哪！这是我所爱的七子，他们不爱虚荣，只爱我的心！  
