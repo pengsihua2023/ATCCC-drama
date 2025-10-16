@@ -138,7 +138,7 @@ https://grok.com/imagine/post/5aaba380-8401-4b86-82bf-c85daafc754e?source=post-p
 
 https://grok.com/imagine/post/d3b705a6-8999-42ee-a010-80be565a625b?source=post-page&platform=web  
      
-
+   
 *场景和旁白：光芒骤亮，真王与七子升起，衣袍如火焰闪耀。  
 -合唱（高声）： 「荣耀属于王，忠心儿子与王同在！」  
 -王造化： 看哪！这是我所爱的七子，他们不爱虚荣，只爱我的心！  
