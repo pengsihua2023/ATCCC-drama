@@ -23,7 +23,7 @@
 #### 场景和旁白：（灯光交替）时光流转。七子在不同环境中被磨炼。    
 
 ### 场一：王宫学堂  
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/01f50c47-8887-4967-b948-432ebdfe9424" />    
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/01f50c47-8887-4967-b948-432ebdfe9424" />    
 
 **旁白：在王宫学堂**   
 - 宝血： 父王的功课太重，我快窒息了！  
@@ -37,7 +37,7 @@
 
 ### 场二：苦难村
 **场景和旁白：荒凉村庄，众人冷眼。**    
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/70051645-b5f9-40ee-9e1a-7ef0330f888c" />  
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/70051645-b5f9-40ee-9e1a-7ef0330f888c" />  
   
 - 村人（甲乙丙）：  
   - 这就是王的儿子？连水桶都挑不动！  
@@ -53,7 +53,7 @@
 
 ### 场三：旷野之路
 #### 场景和旁白：旷野里，烈日下，七子合力抬木架。  
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e2fed85d-5c0b-4717-b056-77e86b97cf6c" />  
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/e2fed85d-5c0b-4717-b056-77e86b97cf6c" />  
 
 - 负架： 弟兄们……我走不动了！  
 - 宝血： 让我替你分担！  
@@ -66,7 +66,7 @@
 ### 场四：试炼前夜
 **场景和旁白：试炼前夜，篝火旁。**  
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4b04112f-466e-4c47-a537-74ee378108a3" />
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/4b04112f-466e-4c47-a537-74ee378108a3" />
 
 https://grok.com/imagine/post/a625dd7a-ff1c-4b6d-b7fa-6313d54b14b4?source=post-page&platform=web  
 
@@ -83,7 +83,7 @@ https://grok.com/imagine/post/a625dd7a-ff1c-4b6d-b7fa-6313d54b14b4?source=post-p
 ## 第三幕：山谷大会（约3分钟）
 #### 场景和旁白：大山谷。文武百官，百姓环立，还有假王。候完全主持大会。  
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4c8444ab-fb59-4b57-a642-17d8322c0e3b" />  
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/4c8444ab-fb59-4b57-a642-17d8322c0e3b" />  
   
 https://grok.com/imagine/post/fe385fe2-2797-4e59-9546-cc01511f553b?source=post-page&platform=web
   
@@ -105,7 +105,7 @@ https://grok.com/imagine/post/fe385fe2-2797-4e59-9546-cc01511f553b?source=post-p
 
 ## 第四幕：荣耀与敬畏（约5分钟）
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e17cde7e-3c76-4dbb-b763-8e6c23d64862" />  
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/e17cde7e-3c76-4dbb-b763-8e6c23d64862" />  
   
 https://grok.com/imagine/post/5aaba380-8401-4b86-82bf-c85daafc754e?source=post-page&platform=web
 
@@ -134,7 +134,7 @@ https://grok.com/imagine/post/5aaba380-8401-4b86-82bf-c85daafc754e?source=post-p
 
 ### 场四：荣耀显现
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c6791f34-7e7a-45a3-ba8b-87556a2d84f7" />
+<img width="650" height="360" alt="image" src="https://github.com/user-attachments/assets/c6791f34-7e7a-45a3-ba8b-87556a2d84f7" />
 
 https://grok.com/imagine/post/d3b705a6-8999-42ee-a010-80be565a625b?source=post-page&platform=web  
      
